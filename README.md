@@ -1,5 +1,6 @@
-## web-scraping-using-selenium
-### Scraping Data from a dynamic website-[GRABCAD](https://grabcad.com/library) under various categories using Selenium
+## Scraping Data from a dynamic website-[GRABCAD](https://grabcad.com/library) under various categories using Selenium
+
+Check out the Jupyter notebook here:https://jovian.ai/dwivedi-rishabh95/project-web-scraping-with-python
 
 **INTRODUCTION:**
 
@@ -12,7 +13,7 @@ As a Data Science Engineer we aims to get the all time most downloaded design mo
 
 (In this notebook we will limit our objective to scrape the data for each category separately to limit the dataset , We can also combine the data for different categories and further analysis and testing on that complete data can be done on a similar path)
 
-**The overall steps I'll follow are:**
+**The overall steps followed are:**
 
 1. Understanding the structure of [grabcad](https://grabcad.com/library)website
 2. Install and Import required libraries
